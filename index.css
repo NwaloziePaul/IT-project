@@ -244,7 +244,7 @@ summary{
     color: #BDCFC0;
 }
 .fifth-part{
-    height: 700px;
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -320,7 +320,7 @@ summary{
 }
 .p-body{
     height: 912px;
-    background-image: url(Vector\ 1.png);
+    background-image: url(Image/Vector\ 1.png);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 650px 170px;
@@ -395,7 +395,7 @@ summary{
 }
 .a-body{
     height: 1000px;
-    background-image: url(Vector\ 1.png);
+    background-image: url(Image/Vector\ 1.png);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 650px 170px;
@@ -543,4 +543,10 @@ textarea{
 .iig{
     height: 60px;
     width: 60px;
+}
+.u-arrow{
+    display: flex;
+    justify-content: end;
+    padding-right: 5rem;
+    background-color: #F6F6F6;
 }
